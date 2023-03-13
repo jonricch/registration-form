@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@700&family=Raleway:wght@900&family=Roboto:wght@300;700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  line-height: 25px;
+}
+
+.submit-container {
+  text-align: center;
+}
+
+#submit {
+  font-size: 15px;
+  margin-top: 25px;
+  width: 30%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+#result {
+  justify-content: center;
+}
+
+.container-result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
